@@ -17,6 +17,8 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
+Tekst
+
 {% mermaid %}
 sequenceDiagram
     Alice->>Bob: Hello Bob, how are you ?
