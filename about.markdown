@@ -31,5 +31,6 @@ sequenceDiagram
     Alice-xCarl: We are too many
     destroy Bob
     Bob->>Alice: I agree!
+    Frank->>Alice: I'm good!
 {% endmermaid %}
     
