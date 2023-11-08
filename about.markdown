@@ -28,6 +28,6 @@ sequenceDiagram
     destroy Carl
     Alice-xCarl: We are too many
     destroy Bob
-    Bob->>Alice: I agree
+    Bob->>Alice: I agree!
 {% endmermaid %}
     
